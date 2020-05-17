@@ -13,5 +13,5 @@ myobj.save(save)
 
 
 playsound(save)
-# os.system('mpyg321 voicetry.mp3')
-# os.rm('voicetry.mp3')
+
+# os.remove('voicetry.mp3')
