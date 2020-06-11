@@ -10,5 +10,7 @@
 - pip3 install gtts
 - pip3 install playsound
 
+#### developer
+- <a href=https://me-danuandrean.github.io>Danu andrean</a>
 
 > enjoy
